@@ -1,7 +1,7 @@
-### Olá! Eu sou o Daniel Maximino.
+## Olá Dev´s! Aqui Daniel Maximino.
 
 
-- 🔭 Apaixonado por Programação.
+- 🔭 Aprendendo e se dedicando a Programação.
 - 🌱 Estudante  de Analise e Desenvolvimento de Sistemas 4/4.
 
 <div align="center">

@@ -14,7 +14,7 @@
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="left" height="250" alt="colding-time" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-  <h1 align="center">Tecnologias Ultilizadas <3</h1>
+  <h1 align="center">Tecnologias Utilizadas <3</h1>
   <img align="center" alt="Daniel-Codepen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/>
   <img align="center" alt="Daniel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Daniel-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
